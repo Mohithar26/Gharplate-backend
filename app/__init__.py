@@ -1,0 +1,1 @@
+"""GharPlate backend application."""
